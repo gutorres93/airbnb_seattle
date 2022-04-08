@@ -1,9 +1,5 @@
 # Readme
 
-## Installations
-
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3
-
 ## Project Motivation
 
 The purpose of this project consist in understand the market of Airbnb in Seattle. To achive this I decided to used a dataset of Airbnb to answer the following questions:
@@ -24,4 +20,4 @@ In this [blog](https://gutorres93.github.io/udacity_p1/) you can find the soluti
 
 ## Licensing, Authors, Acknowledgements
 
-Must give credit to Airbnb for the data. You can find the the data and other descriptive information at [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle).
+The author of this project is Gustavo Torres, economist from Universidad de los Andes, currently working as a Senior Data Scientist at Banco Davivienda. Must give credit to Airbnb for the data. You can find the the data and other descriptive information at [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle).
