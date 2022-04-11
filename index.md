@@ -1,6 +1,7 @@
 # You want to rent your apartment on Airbnb?
 
 ![pexels-chait-goli-1796730](https://user-images.githubusercontent.com/89614195/162767827-70574a15-fabc-4f6a-b339-92618bb0b8e3.jpg)
+Source: Pexels
 
 If you are interested in rent your home in Seattle this article is for you. I used real data from Airbnb to answer some questions that can be take it into account before you decide to rent your home. The variables selected for the study are: accommodates, bathrooms, bedrooms, superhost, number of reviews, the review score rating, the reviews per month and the neighborhoods.
 
