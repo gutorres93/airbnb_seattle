@@ -12,7 +12,7 @@ The purpose of this project consist in understand the market of Airbnb in Seattl
 
 ## File Descriptions
 
-There is a [notebook](https://github.com/gutorres93/udacity_p1/blob/main/Udacity_P1.ipynb) available in this repository with all the necessary steps to reach the results of this project.
+There is a [notebook](https://github.com/gutorres93/udacity_p1/blob/main/Project_1.ipynb) available in this repository with all the necessary steps to reach the results of this project.
 
 ## Results
 
