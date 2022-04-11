@@ -1,4 +1,4 @@
-# You want to rent your apartment on Airbnb?
+# You want to rent your home on Airbnb?
 
 ![pexels-chait-goli-1796730](https://user-images.githubusercontent.com/89614195/162767827-70574a15-fabc-4f6a-b339-92618bb0b8e3.jpg)
 Source: Pexels
