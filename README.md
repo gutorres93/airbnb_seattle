@@ -1,5 +1,12 @@
 # Readme
 
+## Libraries
+- Pandas (v. 1.3.5)
+- Numpy (v. 1.21.5)
+- Seaborn (v. 0.11.2)
+- Sklearn (v. 1.0.2)
+- Matplotlib (v. 3.2.2)
+
 ## Project Motivation
 
 The purpose of this project consist in understand the market of Airbnb in Seattle. To achive this I decided to used a dataset of Airbnb to answer the following questions:
@@ -16,7 +23,7 @@ There is a [notebook](https://github.com/gutorres93/udacity_p1/blob/main/Project
 
 ## Results
 
-In this [blog](https://gutorres93.github.io/udacity_p1/) you can find the solution to the questions asked above.
+In this [blog](https://gutorres93.github.io/udacity_p1/) you can find the solutions to the questions asked above.
 
 ## Licensing, Authors, Acknowledgements
 
